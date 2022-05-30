@@ -1,0 +1,25 @@
+id: IC8A8AB0D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:10:28.954725'
+last_modified: '2022-05-30T22:10:28.954730'
+parser: null
+source_metadata:
+  title: Khenchen Ngawang Lodrö Rinchen
+  language: fr
+  description: 'Texts by Khenchen Ngawang Lodrö Rinchen (mkhan chen ngag dbang blo
+    gros rin chen, 1892–1952):'
+  volume:
+    f19EA:
+      title: Prayer for the Long Life of Kyabgön Sakya Trichen
+      base_file: f19EA.txt
+      order: 1
+      parent: Long Life Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
